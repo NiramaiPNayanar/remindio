@@ -159,17 +159,3 @@ Task filtering and prioritization logic
 Token handling and authentication decisions
 
 Overall project direction and feature planning
-
-Additional Resources
-
-Project demonstration and related materials are available at the following Google Drive link:
-```
-https://drive.google.com/file/d/1WNxXdE8ru0PEREfxblBjyhsJIZZPObEY/view?usp=sharing
-https://drive.google.com/file/d/1WNxXdE8ru0PEREfxblBjyhsJIZZPObEY/view?usp=sharing
-```
-Final Notes
-
-Remindio is an evolving project built with a focus on simplicity, usability, and practical full-stack development.
-The goal was to create a realistic application that demonstrates clean architecture, functional authentication, and meaningful task management features.
-
-Future improvements can include notifications, better mobile support, and production-level optimizations.
